@@ -1,0 +1,1 @@
+{"description":"A phone's funniest last words at 1 percent battery, written for make.fun's Famous Last Words at 1 Percent bounty.","license":"MIT","main":"main.ts","name":"famous-last-words-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
